@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "description": "",
   "keywords": [],
-  "main": "dist/axios-ts-browser.umd.js",
-  "module": "dist/axios-ts-browser.es5.js",
+  "main": "dist/axios.umd.js",
+  "module": "dist/axios.es5.js",
   "typings": "dist/types/index.d.ts",
   "files": [
     "dist"
